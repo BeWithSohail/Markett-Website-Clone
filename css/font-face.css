@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'Gotham Rounded';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Gotham Rounded'), url('https://fonts.cdnfonts.com/s/22255/Gotham Rounded Bold.woff') format('woff');
+}
+@font-face {
+  font-family: 'Gotham Rounded';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Gotham Rounded'), url('https://fonts.cdnfonts.com/s/22255/Gotham Rounded Light.woff') format('woff');
+}
+@font-face {
+  font-family: 'Gotham Rounded';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Gotham Rounded'), url('https://fonts.cdnfonts.com/s/22255/Gotham Rounded Light Italic.woff') format('woff');
+}
+@font-face {
+  font-family: 'Gotham Rounded';
+  font-style: normal;
+  font-weight: 350;
+  src: local('Gotham Rounded'), url('https://fonts.cdnfonts.com/s/22255/Gotham Rounded Medium.woff') format('woff');
+}
+@font-face {
+  font-family: 'Gotham Rounded';
+  font-style: italic;
+  font-weight: 350;
+  src: local('Gotham Rounded'), url('https://fonts.cdnfonts.com/s/22255/Gotham Rounded Medium Italic.woff') format('woff');
+}
+@font-face {
+  font-family: 'Gotham Rounded';
+  src: url("../webfonts/GothamRoundedBold.ttf");
+}

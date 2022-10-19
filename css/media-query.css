@@ -1,0 +1,489 @@
+/** for large device resolution **/
+@media (min-width: 1400px) {}
+
+/** for large device resolution **/
+@media (min-width: 1600px) {}
+
+@media screen and (min-device-width: 400px) and (max-device-width: 520px) {
+	
+}
+
+@media only screen and (min-width: 768px) {
+
+	.modal-dialog{
+		max-width: 500px;
+		width: 500px;
+	}
+	.custom-radiobtn-field.custom-radiobtn-field-occupation .custom-radio-btn span{
+		font-size: 16px;
+	}
+	.request-otp-cta{
+		font-weight: 350;
+		font-size: 16px;
+	}
+	.form-group.monthly-income-form-parent::before{
+		width: 50px;
+	}
+	.form-parents .form-group.monthly-income-form-parent input.form-control{
+		padding: 10px 10px 10px 60px;
+	}
+	.content-wrap.motor-insurance-heading h3{
+		margin-bottom: 10px;
+	}
+	.graphic-img-content {
+		max-width: 600px;
+		margin: 0 auto;
+	}
+
+	.select2-container--default .select2-results>.select2-results__options {
+		max-height: 300px;
+	}
+
+	.transparent-btn-account {
+		font-size: 14px;
+		width: auto;
+		padding: 10px 75px;
+		width: auto;
+		min-width: auto;
+		line-height: normal;
+		height: 60px;
+		margin-right: 10px;
+	}
+
+	.less-padding {
+		padding: 40px 0;
+	}
+
+	.cmn-higlighted-text h2 {
+		font-weight: 400;
+		font-size: 40px;
+		line-height: 50px;
+	}
+
+	.grid-overlay-container {
+		flex-wrap: wrap;
+	}
+
+	.grid-container {
+		margin: 5px;
+	}
+
+	.advantage-field-section ul li {
+		margin-bottom: 50px;
+	}
+
+	.request-otp-cta {
+		width: 100%;
+	}
+
+	.key-advantage-section {
+		padding-top: 30px;
+	}
+
+	.form-group select {
+		background-position: 98% 20px;
+	}
+
+	.bank-selector {
+		background-position: 98% 20px;
+	}
+
+	.cmn-checkbox-selector-spouse h3 {
+		text-align: left;
+	}
+
+	.mgl-10 {
+		margin-left: 0;
+	}
+
+	.checkbox-agree-field label {
+		font-size: 14px;
+	}
+
+	.checkbox-agree-field label a {
+		font-size: 14px;
+	}
+
+	.disclaimer-section h2 {
+		font-size: 16px;
+	}
+
+	.disclaimer-section p {
+		font-size: 14px;
+		line-height: 20px;
+	}
+
+	.grid-container p {
+		font-size: 14px;
+		line-height: 20px;
+		margin-bottom: 10px;
+	}
+
+	.grid-container h3 {
+		font-size: 16px;
+	}
+
+	.grid-container a.applynow-cta {
+		padding: 15px;
+	}
+
+	.otp-veriication-text-field h2 {
+		font-size: 16px;
+		line-height: 20px;
+	}
+
+	.otp-veriication-text-field p {
+		font-size: 14px;
+	}
+
+	.custom-radiobtn-field.custom-radiobtn-field-occupation .custom-radio-btn {
+		width: 33%;
+	}
+
+	.common-checkbox-element h3 {
+		text-align: left;
+	}
+
+	.custom-radiobtn-field .custom-radio-btn span.no {
+		margin-left: 0;
+	}
+
+	.date-selector-form .common-checkbox-element .cmn-radio-selector .custom-radio-btn span {
+		padding: 10px 10px;
+		font-size: 14px;
+	}
+
+	.form-date-of-appoinment h2 {
+		font-size: 26px;
+		margin-bottom: 5px;
+	}
+
+	.form-date-of-appoinment h3 {
+		font-size: 16px;
+	}
+
+	.time-zone-selector {
+		padding: 20px 10px;
+		font-size: 14px;
+		width: 30%;
+	}
+
+	.success-icon img {
+		max-width: 80px;
+	}
+
+	.booking-confirmed-box h2 {
+		font-size: 26px;
+	}
+
+	.booking-confirmed-box p {
+		font-size: 22px;
+		line-height: 28px;
+	}
+
+	.thank-you-component-section h3 {
+		font-size: 26px;
+		line-height: 32px;
+	}
+
+	.thank-you-component-section h3 strong {
+		font-size: 40px;
+	}
+
+	.thank-you-component-section p {
+		font-size: 22px;
+		line-height: 25px;
+		padding-top: 30px;
+		line-height: 30px;
+	}
+
+	.pdf-download-pnl {
+		height: 400px;
+	}
+
+	.thank-you-component-section {
+		padding-top: 0;
+	}
+
+	.pdf-download-pnl a {
+		padding-top: 150px;
+	}
+
+	button.bank-name-cta {
+		font-size: 14px;
+	}
+
+	.content-wrap {
+		min-height: 140px;
+	}
+
+	.cmn-higlighted-text h2 span {
+		font-size: 48px;
+	}
+}
+
+@media only screen and (min-width: 992px) {
+	.request-otp-cta {
+		width: 30%;
+		margin: 0 auto;
+	}
+
+	.advantage-field-section ul li {
+		display: inline-block;
+		margin: 10px 20px;
+	}
+
+	.advantage-field-section ul li {
+		margin: 10px 50px;
+	}
+
+	.grid-overlay-container {
+		flex-wrap: nowrap;
+	}
+
+	.cmn-higlighted-text h2 {
+		font-size: 45px;
+		line-height: 50px;
+	}
+
+	.pdf-download-pnl {
+		height: 200px;
+	}
+
+	section.less-padding.Thank-you-section {
+		padding-top: 10px;
+	}
+
+	.thank-you-component-section h3 {
+		font-size: 20px;
+		line-height: 24px;
+	}
+
+	.thank-you-component-section h3 strong {
+		font-size: 25px;
+	}
+
+	.thank-you-component-section p {
+		font-size: 14px;
+		line-height: 25px;
+		padding-top: 0px;
+		line-height: 20px;
+	}
+
+	.pdf-download-pnl a {
+		padding-top: 50px;
+	}
+
+}
+
+@media only screen and (min-width: 1240px) {
+	.advantage-field-section ul li {
+		margin: 10px 50px;
+	}
+
+	.custom-radiobtn-field .custom-radio-btn {
+		width: 49.5%;
+	}
+
+	.cmn-radio-selector {
+		margin-left: 0px;
+	}
+
+	.form-group select {
+		background-position: 99% 20px;
+	}
+
+	.bank-selector {
+		background-position: 99% 20px;
+	}
+}
+
+/** for ipad resolution **/
+@media only screen and (max-width: 768px) {
+	section {
+		padding: 40px 0;
+	}
+
+	.contact-email-section h1 {
+		font-size: 40px;
+		margin-top: 40px;
+	}
+
+	.contact-email-section h3 {
+		font-size: 30px;
+	}
+
+	.financial-field h1 {
+		font-size: 40px;
+	}
+
+	.form-field .col-sm-5 {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+
+	.financial-field {
+		margin-top: 20%;
+	}
+
+	.box-pnl {
+		padding: 30px 0 0;
+	}
+
+	.cmn-btn-container {
+		float: none;
+	}
+
+	.footer-logo-pnl {
+		max-width: 130px;
+	}
+
+	.footer-logo-description p {
+		padding-right: 50px;
+	}
+
+	.cmn-less-sub-heading {
+		font-size: 14px;
+		margin-top: 18px;
+	}
+
+	.cmn-cta {
+		display: block;
+		width: 100%;
+		margin-bottom: 10px;
+		font-size: 14px;
+		padding: 20px 20px;
+	}
+
+	.cmn-btn-container {
+		display: block;
+	}
+
+	/** Form Css **/
+
+	/** End **/
+
+}
+
+/** for Mobile resolution **/
+@media only screen and (max-width: 767px) {
+
+	.container,
+	.container-fluid,
+	.container-lg,
+	.container-md,
+	.container-sm,
+	.container-xl {
+		padding-right: 20px;
+		padding-left: 20px;
+	}
+
+	.cmn-bnner {
+		height: 100vh;
+	}
+
+	.contact-section {
+		padding: 100px 0;
+	}
+
+	.clients-section ul li {
+		width: 30%;
+	}
+
+	.btn-check-eligibilty {
+		padding: 15px 40px;
+		display: block;
+		margin: auto;
+		margin-top: 10px;
+		width: 100%;
+	}
+
+	.financial-field h5 {
+		margin-top: 60px;
+	}
+
+	.check-eligibilty-section input {
+		margin-top: 10px;
+		padding: 15px 10px;
+		display: block;
+		width: 100% !important;
+		border-right: 1px solid #000;
+		text-align: center;
+	}
+
+	.financial-field h5 {
+		text-align: center;
+	}
+
+	.contact-email-section h3 {
+		font-size: 25px;
+	}
+
+	.contact-email-section h1 {
+		font-size: 30px;
+		margin-top: 30px;
+		font-weight: 350;
+	}
+
+	.financial-field {
+		margin-top: 15%;
+	}
+
+	.financial-field h1 {
+		font-size: 25px;
+		line-height: 30px;
+	}
+
+	.financial-field p {
+		font-size: 18px;
+		margin-top: 20px;
+		line-height: 20px;
+	}
+
+	.cmn-heading {
+		font-size: 30px;
+	}
+
+	.cmn-sub-heading {
+		font-size: 16px;
+		line-height: 22px;
+		margin-top: 40px;
+	}
+
+	.third-party-pages-bank h3 {
+		font-size: 16px;
+	}
+
+	.bg-section2 {
+		height: 100vh;
+	}
+
+	.cmn-sub-heading br {
+		display: none;
+	}
+
+	.financial-field p br {
+		display: none;
+	}
+
+	/** Form Css **/
+
+	/** End **/
+}
+
+/** for Mobile resolution **/
+@media only screen and (max-width: 520px) {}
+
+/** for Mobile resolution **/
+@media only screen and (max-width: 480px) {}
+
+/** for Mobile resolution **/
+@media only screen and (max-width:376px) {
+	.bg-section2 {
+		height: auto;
+	}
+
+}
+
+/** for Mobile resolution **/
+@media only screen and (max-width:320px) {}
